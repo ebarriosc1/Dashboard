@@ -1,4 +1,5 @@
 <!-- VIEW THE DASHBOARD --> 
+## View Dashboard
 Can view the dashboard here at this link (recommended to view at this link): https://pure-badlands-89084-24d254109cac.herokuapp.com/
 
 <!--ABOUT THE PROJECT -->
